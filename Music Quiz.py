@@ -13,82 +13,82 @@ def main(page: ft.Page):
     songs = {
         "1980s": [
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Billie Jean.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\bllie jean2.jpg",  # Added comma here
+                "src": r"Music\Billie Jean.mp3",
+                "image": r"Images\bllie jean2.jpg", 
                 "hint": "The King of Pop says 'the kid is not my son'"
             },
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Everybody Want To Rule The World.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\everybody wants to rule the world3.jpg",  # Added comma here
+                "src": r"Music\Everybody Want To Rule The World.mp3",
+                "image": r"Images\everybody wants to rule the world3.jpg",
                 "hint": "A song by Tears for Fears about power and ambition"
             },
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Every Breath You Take.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\ebyt2.jpg",  # Added comma here
+                "src": r"Music\Every Breath You Take.mp3",
+                "image": r"Images\ebyt2.jpg",
                 "hint": "The Police's most famous song, 'I'll be watching you...'"
             },
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Everywhere.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\everywhere2.jpg",  # Added comma here
+                "src": r"Music\Everywhere.mp3",
+                "image": r"Images\everywhere2.jpg", 
                 "hint": "Fleetwood Mac song about following someone everywhere"
             },
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Like A Prayer.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\like a prayer2.jpg",  # Added comma here
+                "src": r"Music\Like A Prayer.mp3",
+                "image": r"Images\like a prayer2.jpg",
                 "hint": "Madonna's controversial religious-themed hit, featured in Deadpool & Wolverine"
             }
         ],
         "2000s": [
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Sweater Weather.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\sweater weather2.jpg",  # Added comma here
+                "src": r"Music\Sweater Weather.mp3",
+                "image": r"Images\sweater weather2.jpg", 
                 "hint": "The Neighbourhood's song about cold weather attire"
             },
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Last Friday Night.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\last friday night2.jpg",  # Added comma here
+                "src": r"Music\Last Friday Night.mp3",
+                "image": r"Images\last friday night2.jpg", 
                 "hint": "Katy Perry's party anthem"
             },
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Get Lucky.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\get lcuky2.jpg",  # Added comma here
+                "src": r"Music\Get Lucky.mp3",
+                "image": r"Images\get lcuky2.jpg",
                 "hint": "Daft Punk, Pharrell Williams, and song about good fortune"
             },
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Gangnam Style.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\gangnam style2.jpg",  # Added comma here
+                "src": r"Music\Gangnam Style.mp3",
+                "image": r"Images\gangnam style2.jpg",
                 "hint": "PSY's viral Korean hit, we all know the dance"
             },
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Danza Kuduro.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\danza kuduro2.jpg",  # Added comma here
+                "src": r"Music\Danza Kuduro.mp3",
+                "image": r"Images\danza kuduro2.jpg",
                 "hint": "Don Omar's Latin dance hit, moms love it!"
             }
         ],
         "2020s": [
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Blinding Lights.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\blinding lights2.jpg",  # Added comma here
+                "src": r"Music\Blinding Lights.mp3",
+                "image": r"Images\blinding lights2.jpg",
                 "hint": "The Weeknd's being blinded by something..."
             },
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Brooklyn.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\BROOKLYN3.jpg",  # Added comma here
+                "src": r"Music\Brooklyn.mp3",
+                "image": r"Images\BROOKLYN3.jpg",  
                 "hint": "A Dominican indie groove that mentions NYC's coolest borough"
             },
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Golden Hour.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\Golden Hour3.jpg",  # Added comma here
+                "src": r"Music\Golden Hour.mp3",
+                "image": r"Images\Golden Hour3.jpg", 
                 "hint": "JVKE's viral song about a perfect moment in time, imagine a sunset"
             },
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Let The Light In.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\let the light in3.jpg",  # Added comma here
+                "src": r"Music\Let The Light In.mp3",
+                "image": r"Images\let the light in3.jpg", 
                 "hint": "One of Lana Del Rey's best songs ever (not biased)"
             },
             {
-                "src": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Music\Levitating.mp3",
-                "image": r"C:\Users\frank\OneDrive\Desktop\SD Final Project\Desktop\Images\levitating3.jpg",  # Added comma here
+                "src": r"Music\Levitating.mp3",
+                "image": r"Images\levitating3.jpg",
                 "hint": "Dua Lipa with DaBaby"
             }
         ]
